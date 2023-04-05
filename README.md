@@ -9,8 +9,12 @@ Generates a time series using random normally distributed values and calculates 
 
 Simulation 2: 
 Generates a time series using an autoregressive model with a lag of 1 and calculates the mean and standard deviation biases for both sampling methods over 1000 iterations.
-Simulation 3: Generates a time series using random normally distributed values with a linear trend and calculates the trend bias for both sampling methods over 1000 iterations.
-Simulation 4: Generates a time series using random beta distributed values and calculates the bias of extreme values (values above the mean + standard deviation) for both sampling methods over 1000 iterations.
+
+Simulation 3: 
+Generates a time series using random normally distributed values with a linear trend and calculates the trend bias for both sampling methods over 1000 iterations.
+
+Simulation 4: 
+Generates a time series using random beta distributed values and calculates the bias of extreme values (values above the mean + standard deviation) for both sampling methods over 1000 iterations.
 
 ## Plots
 
