@@ -1,6 +1,6 @@
 # A-primer-on-sampling-schemes-of-ambulatory-assessments
 
-This code compares the performance of two time series sampling methods, Daily Diary (DD) and Ecological Momentary Assessment (EMA), across four different simulations. Each simulation generates a time series, applies both sampling methods, calculates biases to evaluate their performance, and generates plots for visual comparison.
+This code compares the performance of two abmulatory assessment sampling methods, Daily Diary (DD) and Ecological Momentary Assessment (EMA), across four different simulations. Each simulation generates a time series, applies both sampling methods, calculates biases to evaluate their performance, and generates plots for visual comparison.
 
 ## Simulations
 
