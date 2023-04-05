@@ -16,19 +16,3 @@ Simulation 4: Generates a time series using random beta distributed values and c
 
 The script generates four plots, one for each simulation. The plots show the original time series in grey, the DD sampled time series in blue, and the EMA sampled time series in red with asterisk markers.
 
-## Version
-
-platform       aarch64-apple-darwin20      
-arch           aarch64                     
-os             darwin20                    
-system         aarch64, darwin20           
-status                                     
-major          4                           
-minor          2.3                         
-year           2023                        
-month          03                          
-day            15                          
-svn rev        83980                       
-language       R                           
-version.string R version 4.2.3 (2023-03-15)
-nickname       Shortstop Beagle 
